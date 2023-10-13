@@ -16,6 +16,10 @@ html.dark {
   color: lightyellow;
 }
 
+.dark .tag a {
+  color: navy;
+}
+
 .skill {
   color: navy;
 }
