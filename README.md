@@ -1,5 +1,9 @@
 # Astro Starter Kit: Minimal
 
+## blogのチュートリアルを試してみる
+
+[Build your first Astro Blog](https://docs.astro.build/en/tutorial/0-introduction/)
+
 ```sh
 npm create astro@latest -- --template minimal
 ```
